@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "My first bash script"
+echo "Display password list"
